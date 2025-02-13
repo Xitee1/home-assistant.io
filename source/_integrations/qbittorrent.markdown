@@ -33,8 +33,8 @@ The qBittorrent integration will add the following sensors:
 - `sensor.qbittorrent_connection_status`: The connection status of qBittorrent - `connected`, `firewalled` or `disconnected`.
 - `sensor.qbittorrent_upload_speed`: The current total upload speed in kB/s.
 - `sensor.qbittorrent_download_speed`: The current total download speed in kB/s.
-- `sensor.qbittorrent_alltime_download`: The All-time download.
-- `sensor.qbittorrent_alltime_upload`: The All-time upload.
+- `sensor.qbittorrent_alltime_download`: The All-time downloaded data amount.
+- `sensor.qbittorrent_alltime_upload`: The All-time uploaded data amount.
 - `sensor.qbittorrent_global_ratio`: The global ratio of all torrents.
 - `sensor.qbittorrent_all_torrents`: The current total torrents in qBittorrent.
 - `sensor.qbittorrent_active_torrents`: The current active torrents in qBittorrent.
