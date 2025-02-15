@@ -29,8 +29,8 @@ This sensor requires the qBittorrent Web UI enabled. The [official reference](ht
 
 The qBittorrent integration will add the following sensors:
 
-- `sensor.qbittorrent_status`: The status of qBittorrent - `up_down`, `seeding`, `downloading` or `idle`.
-- `sensor.qbittorrent_connection_status`: The connection status of qBittorrent - `connected`, `firewalled` or `disconnected`.
+- `sensor.qbittorrent_status`: The status of qBittorrent - `up_down`, `seeding`, `downloading`, or `idle`.
+- `sensor.qbittorrent_connection_status`: The connection status of qBittorrent - `connected`, `firewalled`, or `disconnected`.
 - `sensor.qbittorrent_upload_speed`: The current total upload speed in kB/s.
 - `sensor.qbittorrent_download_speed`: The current total download speed in kB/s.
 - `sensor.qbittorrent_upload_speed_limit`: The active qBittorrent upload speed limit (disabled by default).
